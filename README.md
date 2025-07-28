@@ -50,7 +50,8 @@ CREATE TABLE IMDB_RATING (
 1.Show All Records
 ```sql
 SELECT * FROM IMDB_RATING;
-```
+```<img width="1872" height="951" alt="Screenshot 2025-07-28 071523" src="https://github.com/user-attachments/assets/c254997e-edbd-4ba3-a472-61520173cd03" />
+
  2.list the top 10 highest-rated movies
 ```sql
 SELECT series_title, imdb_rating AS highest_rated_movies
