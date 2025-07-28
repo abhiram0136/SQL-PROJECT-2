@@ -50,6 +50,8 @@ CREATE TABLE IMDB_RATING (
 1.Show All Records
 ```sql
 SELECT * FROM IMDB_RATING;
+
+[image alt](https://github.com/abhiram0136/SQL-PROJECT-2/blob/30ebe629a2ab0461f87afab59738350a68a1eb10/Screenshot%202025-07-28%20071523.png)
 ```
  2.list the top 10 highest-rated movies
 ```sql
